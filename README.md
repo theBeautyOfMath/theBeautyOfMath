@@ -4,6 +4,7 @@
 
 
 
+![GitHub Logo](/MatheMagic/FormattedPlot.png)
 
 
 
