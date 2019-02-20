@@ -2,6 +2,4 @@
 
 ![GitHub Logo](/MatheMagic/SimplePlot.png)
 
-
-
-![GitHub Logo](./MatheMagic/FormattedPlot.png =80x)
+<img src="/MatheMagic/FormattedPlot.png" width="100">
