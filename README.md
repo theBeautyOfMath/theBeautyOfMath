@@ -4,4 +4,4 @@
 
 
 
-![GitHub Logo](/MatheMagic/FormattedPlot.png=80x)
+![GitHub Logo](/MatheMagic/FormattedPlot.png =80x)
