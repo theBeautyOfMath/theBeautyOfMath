@@ -14,4 +14,4 @@ legend('Sine')
 xlabel('Degrees \theta')
 ylabel('Amplitude')
 
-print('FormattedPlot.png','-dpng','-r0')
+print('FormattedPlot.png','-dpng','-r250')
