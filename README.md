@@ -2,4 +2,4 @@
 
 ![GitHub Logo](/MatheMagic/SimplePlot.png)
 
-<img src="/MatheMagic/FormattedPlot.png" width="250">
+<img src="/MatheMagic/FormattedPlot.png">
